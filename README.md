@@ -8,11 +8,11 @@ This experiment considered basic off-the-shelf modules from the mentioned three 
 
 People's opinion of sentiment of the seven sentences varied much (*as seen in Fig.1 below*) , pointing the ambiguity of the sentences chosen
 
-![image-20200123194512463](C:\Users\rckar\AppData\Roaming\Typora\typora-user-images\image-20200123194512463.png)
+![https://github.com/karthik-rc/Sentiment-Analysis-StanfordCoreNLP/blob/master/images/sentences.PNG]()
 
 
 
-![image-20200123200029972](C:\Users\rckar\AppData\Roaming\Typora\typora-user-images\image-20200123200029972.png)
+![https://github.com/karthik-rc/Sentiment-Analysis-StanfordCoreNLP/blob/master/images/opinion.PNG]()
 
 ​                                                             *Figure 1 - People's opinion on sentiments*
 
@@ -22,9 +22,7 @@ Given this complexity in Natural Language Processing in terms of ambiguity, we o
 
 **This indicates better performance from StanfordCoreNLP module with closest match to people's opinion being the favorable outcome.**
 
-
-
-<img src="C:\Users\rckar\AppData\Roaming\Typora\typora-user-images\image-20200123200322845.png" alt="image-20200123200322845" style="zoom:50%;" />
+![https://github.com/karthik-rc/Sentiment-Analysis-StanfordCoreNLP/blob/master/images/final_score.PNG]()
 
 ​                         *Figure 2 - Match % for sentiment results from each package with people's opinions*
 
