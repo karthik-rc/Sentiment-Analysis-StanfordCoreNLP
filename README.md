@@ -12,7 +12,7 @@ People's opinion of sentiment of the seven sentences varied much (*as seen in Fi
 
 <img src="images/opinion.PNG" style="zoom:40%;" />
 
-​                                                            -> *Figure 1 - People's opinion on sentiments* <-
+​                                                            *Figure 1 - People's opinion on sentiments* 
 
 
 
@@ -22,7 +22,7 @@ Given this complexity in Natural Language Processing in terms of ambiguity, we o
 
 <img src="images/final_score.PNG" style="zoom:40%;" />
 
-​                        -> *Figure 2 - Match % for sentiment results from each package with people's opinions* <-
+​                          *Figure 2 - Match % for sentiment results from each package with people's opinions* 
 
 
 
