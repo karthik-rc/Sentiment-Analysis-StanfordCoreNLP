@@ -2,7 +2,7 @@
 
 A short experiment to analyze the sentiment analysis capabilities of python libraries - StanfordCoreNLP, TextBlob and NLTK, done as part of an academic event at University of Minnesota - MSBA 2020 Trends Marketplace. 
 
-##### Experiment setup and Results
+#### Experiment setup and Results
 
 This experiment considered basic off-the-shelf modules from the mentioned three libraries for comparison. After pre-processing seven ambiguous English sentences, the modules were used to determine the sentiment category of each sentence - whether it is Positive, Negative or Neutral. The sentiments determined by the modules were later compared to responses from event visitors to observe the similarity/differences in the results. 
 
@@ -26,7 +26,7 @@ Given this complexity in Natural Language Processing in terms of ambiguity, we o
 
 
 
-##### Limitation:
+#### Limitation
 
 The comparison was made between basic off-the-shelf modules with default pre-training done from each of the libraries. The performance would vary based on the following conditions:
 
@@ -35,7 +35,7 @@ The comparison was made between basic off-the-shelf modules with default pre-tra
 
 
 
-###### Contributors
+#### Contributors
 
 [Aadarsh Gupta](https://www.linkedin.com/in/darsh20/) - gupta528@umn.edu
 
